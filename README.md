@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [github lokeshsingh007](github lokeshsingh007)
 
-- 💬 Ask me about **python,java,html ,css,js,reactjz**
+- 💬 Ask me about **python,java,html ,css,js,reactjs**
 
 - 📫 How to reach me **lokeshbaghel102004@gmail.com**
 
