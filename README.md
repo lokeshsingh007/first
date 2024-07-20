@@ -1,16 +1,16 @@
 # first
 <h1 align="center">Hi 👋, I'm Lokesh Baghel</h1>
-<h3 align="center">python developer from India</h3>
+<h3 align="center">full Stack from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshsingh007&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshsingh007" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **react js**
 
 - 👨‍💻 All of my projects are available at [github lokeshsingh007](github lokeshsingh007)
 
-- 💬 Ask me about **python,java**
+- 💬 Ask me about **python,java,html ,css,js,reactjz**
 
 - 📫 How to reach me **lokeshbaghel102004@gmail.com**
 
